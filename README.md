@@ -24,8 +24,23 @@ Looking for a lightweight functional language to help create a pleasant workflow
  - Shen [https://github.com/synrc/shen] Compiles Erlang to straightforward js. Part of the N2O framework. Code is... not very clean, not touched in 4 years.
  - Luvviescript [https://github.com/hypernumbers/LuvvieScript] Abandoned?
  
- ## The Zoo
+## The Zoo
+  - Pyret [https://www.pyret.org/] Teaching language - not clear if it can be used outside of that context.
+  - Jen [https://github.com/jtorre39/jen] Type-inferred, python-like syntax, Nice.
+  - Eff [https://github.com/matijapretnar/eff] OCaml extended for effects
+  - Grain [https://grain-lang.org/ OCamlish compiles to WASM. Nice :)
   - GorillaScript [http://ckknight.github.io/gorillascript/] On life support, but nice.
   - Roy [https://github.com/puffnfresh/roy] So cool, but abondoned.
   - Forest [https://github.com/forest-lang/forest-compiler] Compiles to WASM.
+  - Kitchen-Ant [https://github.com/GEWalters/Kitchen-Ant] In flux
+  - Cream & Sugar [https://github.com/jgnewman/cream-and-sugar] New
+  - Smooth [http://bramblex.github.io/Smooth/] In flux, but interesting async contructs.
+  - Oxyde [https://github.com/skyne98/oxyde] It has a name ;-)
+  - Royalscript [https://github.com/jweinst1/Royalscript] I can haz lisp.
+  - JCaml [https://j-woodlee.github.io/JCaml/] Nirvana, with spit?!
+  
+## Java ecosystem
+   - Scala [https://www.scala-js.org/] Thud... foot... Oracle. But nice :)
+   - Clojure [https://github.com/clojure/clojurescript] Ditto. Plus Lisp... Erlang back-end though.
+   
   
