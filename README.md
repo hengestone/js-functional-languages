@@ -25,6 +25,7 @@ Looking for a lightweight functional language to help create a pleasant workflow
  - Luvviescript [https://github.com/hypernumbers/LuvvieScript] Abandoned?
  
 ## The Zoo
+  - Caffeinescript [http://CaffeineScript.com] Looks great, but does it require ArtSuite?
   - Pyret [https://www.pyret.org/] Teaching language - not clear if it can be used outside of that context.
   - Jen [https://github.com/jtorre39/jen] Type-inferred, python-like syntax, Nice.
   - Eff [https://github.com/matijapretnar/eff] OCaml extended for effects
