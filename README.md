@@ -16,7 +16,7 @@ Looking for a lightweight functional language to help create a pleasant workflow
 - OCaml [https://ocaml.org/] compiles to js via Bucklescript and js_of_ocaml
 - Haskell [https://www.haskell.org/] we will all be smart enough to end up with Haskell eventually :)
 - Fay [https://github.com/faylang/fay] Proper Haskell subset, simple js interop.
-- Idris [https://www.idris-lang.org/] Haskell familty, with explixit support for multiple backends.
+- Idris [https://www.idris-lang.org/] Haskell family, with explixit support for multiple backends.
 - Fable [http://fable.io/] So cool, until the whole Microsoft ecosystem lands on your foot with a reverberating thud...
 
 ## Erlang
@@ -43,5 +43,7 @@ Looking for a lightweight functional language to help create a pleasant workflow
 ## Java ecosystem
    - Scala [https://www.scala-js.org/] Thud... foot... Oracle. But nice :)
    - Clojure [https://github.com/clojure/clojurescript] Ditto. Plus Lisp... Erlang back-end though.
+   - Kotlin [https://kotlinlang.org/docs/reference/js-interop.html] Hello World takes 2s to compile. Facepalm.
+ 
    
   
