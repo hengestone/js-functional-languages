@@ -31,7 +31,7 @@ Looking for a lightweight functional language to help create a pleasant workflow
   - Eff [https://github.com/matijapretnar/eff] OCaml extended for effects
   - Grain [https://grain-lang.org/ OCamlish compiles to WASM. Nice :)
   - GorillaScript [http://ckknight.github.io/gorillascript/] On life support, but nice.
-  - Roy [https://github.com/puffnfresh/roy] So cool, but abondoned.
+  - Roy [https://github.com/puffnfresh/roy] So cool, but abandoned.
   - Forest [https://github.com/forest-lang/forest-compiler] Compiles to WASM.
   - Kitchen-Ant [https://github.com/GEWalters/Kitchen-Ant] In flux
   - Cream & Sugar [https://github.com/jgnewman/cream-and-sugar] New
